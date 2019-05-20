@@ -17,3 +17,8 @@ rooms=[]
   end
   rooms
   end
+
+def printer
+badges
+rooms  
+end
