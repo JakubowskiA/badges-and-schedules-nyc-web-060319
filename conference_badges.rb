@@ -18,7 +18,9 @@ rooms=[]
   rooms
   end
 
-def printer
-badges
-rooms
+def printer(names)
+badges = batch_badge_creator(names)
+puts badges
+rooms = assign_rooms(names)
+puts rooms
 end
