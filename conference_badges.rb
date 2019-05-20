@@ -20,5 +20,5 @@ rooms=[]
 
 def printer
 badges
-rooms  
+rooms
 end
